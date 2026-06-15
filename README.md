@@ -1,4 +1,4 @@
-<img width="1280" height="960" alt="z7922523340790_d19f20a168bdef2f57abf91a518503fa" src="https://github.com/user-attachments/assets/ead22da9-21d4-494d-8e34-b51d46a23364" /># Just some pics of my graduation ceremony
+# Just some pics of my graduation ceremony
 <p align="center">
   <img width="762" height="536" alt="image" src="https://github.com/user-attachments/assets/c8d57091-bd57-448a-95f7-b257f3d2d54c" />
 </p>
