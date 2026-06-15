@@ -31,8 +31,8 @@ Some pictures of me and friends
 </td>
     </tr>
     <tr>
-        <td><img src="image7.jpg" alt="Image 7" width="150"></td>
-        <td><img src="image8.jpg" alt="Image 8" width="150"></td>
+        <td><img width="1276" height="1276" alt="z7922545968251_f5842c2a353b4d1aace23d2473072a53" src="https://github.com/user-attachments/assets/d57aa989-8bea-4a7c-bce3-d4db93d08ed4" /></td>
+        <td></td>
         <td><img src="image9.jpg" alt="Image 9" width="150"></td>
     </tr>
 </table>
