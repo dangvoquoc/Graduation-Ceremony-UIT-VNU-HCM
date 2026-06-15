@@ -11,4 +11,4 @@
 <p align="center">
    <img width="908" height="643" alt="image" src="https://github.com/user-attachments/assets/555f1cb1-8936-42ff-980f-de86f8db582d" />
 </p>
-[View PDF](https://github.com/dangvoquoc/Graduation-Ceremony/blob/main/bằng kỹ sư.pdf)
+[View PDF](https://github.com/dangvoquoc/Graduation-Ceremony/blob/main/bằng\ kỹ\ sư.pdf)
