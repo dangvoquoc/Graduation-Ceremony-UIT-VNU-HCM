@@ -13,5 +13,5 @@
 </p>
 
 For PDF File and Detailed Review, pls check following links
-[Engineer Degree](https://github.com/dangvoquoc/Graduation-Ceremony/blob/main/BangKySu.pdf)
-[Diploma Supplement](https://github.com/dangvoquoc/Graduation-Ceremony/blob/main/phu luc van bang dai hoc-15062026155936.pdf)
+<p>[Engineer Degree](https://github.com/dangvoquoc/Graduation-Ceremony/blob/main/BangKySu.pdf)</p>
+<p>[Diploma Supplement](https://github.com/dangvoquoc/Graduation-Ceremony/blob/main/phu luc van bang dai hoc-15062026155936.pdf)</p>
