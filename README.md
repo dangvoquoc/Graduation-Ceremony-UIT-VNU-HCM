@@ -21,7 +21,7 @@ For PDF File and Detailed Review, pls check following links
 <p>[Engineer Degree](https://github.com/dangvoquoc/Graduation-Ceremony/blob/main/BangKySu.pdf)</p>
 <p>[Diploma Supplement](https://github.com/dangvoquoc/Graduation-Ceremony/blob/main/PhuLucVanBangDaiHoc.pdf)</p>
 
-Some pictures of me and friends
+Some pictures of me and friends and families
 <table border="1">
     <tr>
         <td><img <img width="960" height="1280" alt="z7927392446629_d4496d346e1513192ccc3b712989dc1b" src="https://github.com/user-attachments/assets/7d27f316-21c3-48f6-9672-0b9ce8ac0377" alt="Image 1" width="150"/> ></td>
